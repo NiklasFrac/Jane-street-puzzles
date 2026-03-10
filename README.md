@@ -19,7 +19,7 @@ Each puzzle is stored in its own folder, typically named by year and month.
 
 Each puzzle folder may contain some combination of:
 - a short puzzle-specific README
-- the final write-up (`.pdf` / `.tex`)
+- the final write-up (`.pdf`)
 - code used for verification or computation
 - supporting figures or data files
 
