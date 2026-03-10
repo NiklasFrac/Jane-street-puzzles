@@ -19,8 +19,3 @@ My solution process was:
 4. **Compute the maximum and minimum row sums** of the final configuration and **multiply them** to obtain the final answer.
     [56, 64, 135, 162, 93, 133, 115, 129, 138, 120, 139, 89, 123]
     => 56 * 162 = 9072
-
-## Notes
-
-Published after the official Jane Street solution was available.
-Jane Street lists my submission among the correct solutions for february 2026.
