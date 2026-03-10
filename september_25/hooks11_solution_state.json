@@ -1,0 +1,537 @@
+{
+  "grid_digits": [
+    [
+      0,
+      5,
+      5,
+      5,
+      5,
+      5,
+      7,
+      0,
+      9
+    ],
+    [
+      0,
+      4,
+      0,
+      4,
+      0,
+      0,
+      7,
+      8,
+      9
+    ],
+    [
+      0,
+      6,
+      6,
+      6,
+      6,
+      0,
+      0,
+      8,
+      0
+    ],
+    [
+      0,
+      6,
+      0,
+      0,
+      3,
+      0,
+      7,
+      8,
+      9
+    ],
+    [
+      4,
+      6,
+      3,
+      0,
+      1,
+      0,
+      0,
+      8,
+      0
+    ],
+    [
+      4,
+      0,
+      3,
+      2,
+      2,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      7,
+      7,
+      0,
+      0,
+      7,
+      0,
+      7,
+      0,
+      9
+    ],
+    [
+      0,
+      8,
+      0,
+      0,
+      8,
+      8,
+      8,
+      0,
+      9
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      9,
+      0,
+      9,
+      9,
+      9
+    ]
+  ],
+  "grid_group": [
+    [
+      0,
+      8,
+      8,
+      8,
+      8,
+      8,
+      3,
+      0,
+      3
+    ],
+    [
+      0,
+      5,
+      0,
+      9,
+      0,
+      0,
+      3,
+      3,
+      3
+    ],
+    [
+      0,
+      5,
+      9,
+      9,
+      9,
+      0,
+      0,
+      2,
+      0
+    ],
+    [
+      0,
+      5,
+      0,
+      0,
+      9,
+      0,
+      2,
+      2,
+      2
+    ],
+    [
+      6,
+      5,
+      5,
+      0,
+      7,
+      0,
+      0,
+      2,
+      0
+    ],
+    [
+      6,
+      0,
+      7,
+      7,
+      7,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      6,
+      6,
+      0,
+      0,
+      7,
+      0,
+      4,
+      0,
+      1
+    ],
+    [
+      0,
+      6,
+      0,
+      0,
+      4,
+      4,
+      4,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      4,
+      0,
+      1,
+      1,
+      1
+    ]
+  ],
+  "group_type": {
+    "1": "",
+    "2": "",
+    "3": "",
+    "4": "",
+    "5": "",
+    "6": "",
+    "7": "",
+    "8": "",
+    "9": ""
+  },
+  "given_mask": [
+    [
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "fixed_empty": [
+    [
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false
+    ],
+    [
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false
+    ],
+    [
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true
+    ],
+    [
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true
+    ],
+    [
+      false,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true
+    ],
+    [
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      false
+    ],
+    [
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      false
+    ],
+    [
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false
+    ]
+  ],
+  "mode": "test",
+  "clue_top": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "7",
+    "",
+    ""
+  ],
+  "clue_bottom": [
+    "",
+    "",
+    "3",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "clue_left": [
+    "I",
+    "",
+    "",
+    "6",
+    "",
+    "N",
+    "",
+    "",
+    "Z"
+  ],
+  "clue_right": [
+    "U",
+    "",
+    "",
+    "X",
+    "",
+    "2",
+    "",
+    "",
+    "V"
+  ],
+  "hooks": [
+    {
+      "id": 18,
+      "n": 7,
+      "r": 6,
+      "c": 6,
+      "orient": "TL",
+      "color": "#6d4c41"
+    },
+    {
+      "id": 19,
+      "n": 8,
+      "r": 7,
+      "c": 7,
+      "orient": "TL",
+      "color": "#e53935"
+    },
+    {
+      "id": 20,
+      "n": 9,
+      "r": 8,
+      "c": 8,
+      "orient": "TL",
+      "color": "#8e24aa"
+    },
+    {
+      "id": 96,
+      "n": 1,
+      "r": 4,
+      "c": 4,
+      "orient": "BL",
+      "color": "#7cb342"
+    },
+    {
+      "id": 134,
+      "n": 6,
+      "r": 0,
+      "c": 5,
+      "orient": "BL",
+      "color": "#fb8c00"
+    },
+    {
+      "id": 141,
+      "n": 5,
+      "r": 1,
+      "c": 0,
+      "orient": "BR",
+      "color": "#7cb342"
+    },
+    {
+      "id": 143,
+      "n": 4,
+      "r": 2,
+      "c": 1,
+      "orient": "BR",
+      "color": "#fb8c00"
+    },
+    {
+      "id": 144,
+      "n": 2,
+      "r": 5,
+      "c": 3,
+      "orient": "TR",
+      "color": "#6d4c41"
+    },
+    {
+      "id": 147,
+      "n": 3,
+      "r": 3,
+      "c": 2,
+      "orient": "BR",
+      "color": "#3949ab"
+    }
+  ],
+  "next_hook_id": 148
+}
