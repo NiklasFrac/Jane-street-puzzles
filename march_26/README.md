@@ -1,9 +1,1 @@
-# 2026-03 Planetary Parade
 
-Solution to the March 2026 Jane Street Monthly Puzzle ([official puzzle page](https://www.janestreet.com/puzzles/current-puzzle/)).
-
-This folder contains the final PDF write-up for my submission.
-
-## Files
-
-- `JaneStreet_March_Solution.pdf`
