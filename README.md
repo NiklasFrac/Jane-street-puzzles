@@ -13,7 +13,7 @@ Each puzzle is stored in its own folder, typically named by year and month.
 - [2025-09 Hooks 11](./september_25/)
 - [2025-12 Robot Javelin](./december_25/)
 - [2026-02 Subtiles 2](./february_26/)
-- [2026-03 Planetary Parade](./march_26/)
+- [2026-03 Planetary Parade](./march_26/)(pending)
   
 ## Notes
 
